@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
-		"dev": "webpack serve",
+		"dev": "webpack serve --mode development",
 		"build": "webpack"
 	},
 	"author": "syukronarie <syukronarie@gmail.com>",
