@@ -17,6 +17,9 @@ module.exports = {
 		contentBase: "public",
 		hot: true,
 	},
+	resolve: {
+		extensions: [".ts", ".js"],
+	},
 	output: {
 		publicPath: "public",
 		filename: "bundle.js",
