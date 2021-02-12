@@ -1,0 +1,16 @@
+{
+	"name": "webpack-typescript",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack"
+	},
+	"author": "syukronarie <syukronarie@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"ts-loader": "^8.0.17",
+		"typescript": "^4.1.5",
+		"webpack": "^5.21.2",
+		"webpack-cli": "^4.5.0"
+	}
+}
